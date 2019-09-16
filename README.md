@@ -21,3 +21,7 @@ $ tesseract test.png result2 -l jpn
 ```
 
 そうすると、以上のような日本語でTesseractができる。
+
+### 参考サイト
+
+https://jprogramer.com/ocr/2003
